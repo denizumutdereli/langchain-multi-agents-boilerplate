@@ -1,0 +1,132 @@
+{
+  "teams": [
+    {
+      "name": "Manchester United",
+      "league": "Premier League",
+      "stats": {
+        "2023": {
+          "matches_played": 38,
+          "wins": 23,
+          "draws": 6,
+          "losses": 9,
+          "goals_scored": 71,
+          "goals_conceded": 43,
+          "points": 75,
+          "position": 3
+        },
+        "2022": {
+          "matches_played": 38,
+          "wins": 17,
+          "draws": 8,
+          "losses": 13,
+          "goals_scored": 57,
+          "goals_conceded": 57,
+          "points": 59,
+          "position": 6
+        }
+      },
+      "key_players": [
+        {
+          "name": "Marcus Rashford",
+          "position": "Forward",
+          "stats_2023": {
+            "appearances": 35,
+            "goals": 17,
+            "assists": 5,
+            "minutes_played": 2890
+          }
+        },
+        {
+          "name": "Bruno Fernandes",
+          "position": "Midfielder",
+          "stats_2023": {
+            "appearances": 37,
+            "goals": 8,
+            "assists": 8,
+            "minutes_played": 3330
+          }
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "league": "Premier League",
+      "stats": {
+        "2023": {
+          "matches_played": 38,
+          "wins": 25,
+          "draws": 4,
+          "losses": 9,
+          "goals_scored": 89,
+          "goals_conceded": 47,
+          "points": 79,
+          "position": 2
+        },
+        "2022": {
+          "matches_played": 38,
+          "wins": 19,
+          "draws": 10,
+          "losses": 9,
+          "goals_scored": 67,
+          "goals_conceded": 47,
+          "points": 67,
+          "position": 5
+        }
+      },
+      "key_players": [
+        {
+          "name": "Mohamed Salah",
+          "position": "Forward",
+          "stats_2023": {
+            "appearances": 37,
+            "goals": 30,
+            "assists": 12,
+            "minutes_played": 3150
+          }
+        },
+        {
+          "name": "Virgil van Dijk",
+          "position": "Defender",
+          "stats_2023": {
+            "appearances": 34,
+            "goals": 3,
+            "assists": 2,
+            "minutes_played": 3060
+          }
+        }
+      ]
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "UEFA Champions League",
+      "season": "2022/23",
+      "winner": "Manchester City",
+      "top_scorer": {
+        "name": "Erling Haaland",
+        "team": "Manchester City",
+        "goals": 12
+      },
+      "most_assists": {
+        "name": "Kevin De Bruyne",
+        "team": "Manchester City",
+        "assists": 7
+      }
+    },
+    {
+      "name": "FIFA World Cup",
+      "season": "2022",
+      "winner": "Argentina",
+      "top_scorer": {
+        "name": "Kylian Mbappé",
+        "team": "France",
+        "goals": 8
+      },
+      "most_assists": {
+        "name": "Lionel Messi",
+        "team": "Argentina",
+        "assists": 3
+      }
+    }
+  ]
+} 

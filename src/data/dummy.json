@@ -1,0 +1,77 @@
+{
+  "teams": [
+    {
+      "name": "Liverpool",
+      "stats": {
+        "2023": {
+          "position": 3,
+          "wins": 25,
+          "draws": 8,
+          "losses": 5,
+          "goals_for": 75,
+          "goals_against": 35,
+          "top_scorer": {
+            "name": "Mohamed Salah",
+            "goals": 24
+          }
+        },
+        "2022": {
+          "position": 5,
+          "wins": 19,
+          "draws": 10,
+          "losses": 9,
+          "goals_for": 67,
+          "goals_against": 47,
+          "top_scorer": {
+            "name": "Mohamed Salah",
+            "goals": 19
+          }
+        }
+      }
+    },
+    {
+      "name": "Manchester United",
+      "stats": {
+        "2023": {
+          "position": 6,
+          "wins": 21,
+          "draws": 6,
+          "losses": 11,
+          "goals_for": 58,
+          "goals_against": 43,
+          "top_scorer": {
+            "name": "Marcus Rashford",
+            "goals": 17
+          }
+        },
+        "2022": {
+          "position": 3,
+          "wins": 23,
+          "draws": 6,
+          "losses": 9,
+          "goals_for": 71,
+          "goals_against": 43,
+          "top_scorer": {
+            "name": "Marcus Rashford",
+            "goals": 30
+          }
+        }
+      }
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "UEFA Champions League",
+      "season": "2022/23",
+      "winner": "Manchester City",
+      "top_scorer": {
+        "name": "Erling Haaland",
+        "goals": 12
+      },
+      "most_assists": {
+        "name": "Kevin De Bruyne",
+        "assists": 7
+      }
+    }
+  ]
+} 
