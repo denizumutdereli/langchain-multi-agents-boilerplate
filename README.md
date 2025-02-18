@@ -1,4 +1,4 @@
-# Football Analysis AI Platform
+# Langchain multi-agents boilerplate - Example app Football Analysis AI Platform
 
 A comprehensive AI-powered platform for football statistics analysis and real-time insights using LangChain v3, multiple LLM models, and advanced agent orchestration.
 
